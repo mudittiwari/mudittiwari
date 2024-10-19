@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudittiwari&label=Profile%20views&color=0e75b6&style=flat" alt="mudittiwari" /> </p>
 
-- 🔭 I’m currently working on **Personal Blog**
+- 🔭 I’m currently working on **School Monitoring System**
 
 - 👯 I’m looking to collaborate on **Web development Projects and Mobile application development project**
 
@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **mudit19.072@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dkJreGfk85kV3NLqJG_B5SOpWhrQbQdk/view?usp=sharing](https://drive.google.com/file/d/1dkJreGfk85kV3NLqJG_B5SOpWhrQbQdk/view?usp=sharing)
+- 📄 Want to Know about my experiences? [Visit My Portfolio](https://mudittiwari.netlify.app/)
 
 - ⚡ Fun fact **I never quit until it is done.**
-<h2 align="center">Projects</h2>
+<h1 align="center">Projects</h1>
 
-<table>
+<table min-width="800px" overflow="scroll">
   <tr>
     <td align="center" width="30%">
       <img src="https://github.com/mudittiwari/node.js-file-manager/blob/master/data/banner.png" alt="File Explorer" style="width:100%;" />
