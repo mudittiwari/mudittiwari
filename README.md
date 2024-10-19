@@ -16,6 +16,100 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dkJreGfk85kV3NLqJG_B5SOpWhrQbQdk/view?usp=sharing](https://drive.google.com/file/d/1dkJreGfk85kV3NLqJG_B5SOpWhrQbQdk/view?usp=sharing)
 
 - ⚡ Fun fact **I never quit until it is done.**
+<h2 align="center">Projects</h2>
+
+<table>
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/node.js-file-manager/blob/master/data/banner.png" alt="File Explorer" style="width:100%;" />
+      <h3>File Explorer (MERN Stack)</h3>
+      <p>A full-featured file explorer application built using the MERN stack.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/node.js-file-manager" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://www.npmjs.com/package/@mudittiwari13/node.js-file-manager" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">NPM Link</a>
+      </div>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/AILinkedInExtension/blob/master/screenshots/combined.gif" alt="AI Chatbot" style="width:100%;" />
+      <h3>LinkedIn AI Chatbot (Chrome Extension)</h3>
+      <p>A Chrome extension that assists in drafting LinkedIn messages using AI.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/AILinkedInExtension" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://chromewebstore.google.com/detail/linkedin-ai-chatbot/pghmmjcekckdmpblicpclnkafdflipgb" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Chrome Web Store Link</a>
+      </div>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/socket.io_file_sharing_frontend/blob/master/file-sharing-demo.gif" alt="File Sharing App" style="width:100%;" />
+      <h3>File Sharing App (Node.js & Socket.io)</h3>
+      <p>A real-time file-sharing application built using Node.js and Socket.io.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/socket.io_file_sharing_frontend" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://mudittiwari.github.io/socket.io_file_sharing_frontend/" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Live Demo</a>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/video-calling-using-webrtc-and-socket.io/blob/master/video-calling-demo.gif" alt="Video Calling App" style="width:100%;" />
+      <h3>Video Calling App (Node.js, Socket.io, WebRTC)</h3>
+      <p>A video calling application built using Node.js, Socket.io, and WebRTC.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/video-calling-using-webrtc-and-socket.io" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://video-calling-using-webrtc-and-socket-io-mz4y-dwf5xd8at.vercel.app/" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Live Demo</a>
+      </div>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/gym_website/blob/master/gym-website-demo.gif" alt="Gym Website" style="width:100%;" />
+      <h3>Gym Website Frontend</h3>
+      <p>The frontend design for a gym website with modern UI.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/gym_website" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://mudittiwari.github.io/gym_website/" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Live Demo</a>
+      </div>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/restaurant_website/blob/main/restaurant-website-demo.gif" alt="Restaurant Website" style="width:100%;" />
+      <h3>Restaurant Website Frontend</h3>
+      <p>The frontend design for a restaurant website.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/restaurant_website" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://mudit-restaurant-application.netlify.app/" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Live Demo</a>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/SnakeGameWeb/blob/master/snakegame-master/demo.gif" alt="Snake Game" style="width:100%;" />
+      <h3>Snake Game (Pygame)</h3>
+      <p>A classic Snake game built using Pygame.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/SnakeGameWeb" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://mudittiwari.github.io/SnakeGameWeb/" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Live Demo</a>
+      </div>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/FlappyBirdGameWeb/blob/master/flapppybirdgame-master/demo.gif" alt="Flappy Bird Game" style="width:100%;" />
+      <h3>Flappy Bird Game (Pygame)</h3>
+      <p>A Flappy Bird clone built using Pygame.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/FlappyBirdGameWeb" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://mudittiwari.github.io/FlappyBirdGameWeb/" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Live Demo</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
