@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **web development and mobile application development**
 
-- 💬 Ask me about **react.js, spring mvc, hibernate, oracle sql.**
+- 💬 Ask me about **MERN Stack, spring mvc, hibernate, oracle sql.**
 
 - 📫 How to reach me **mudit19.072@gmail.com**
 
