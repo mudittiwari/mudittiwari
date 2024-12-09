@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudittiwari&label=Profile%20views&color=0e75b6&style=flat" alt="mudittiwari" /> </p>
 
-- 🔭 I’m currently working on **School Monitoring System**
+- 🔭 I’m currently working on **Automated Cricket Score Project**
 
 - 👯 I’m looking to collaborate on **Web development Projects and Mobile application development project**
 
