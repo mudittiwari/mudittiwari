@@ -21,7 +21,7 @@
 <table min-width="800px" overflow="scroll">
   <tr>
     <td align="center" width="30%">
-      <img src="https://github.com/mudittiwari/node.js-file-manager/blob/master/data/banner.png" alt="File Explorer" style="width:100%;" />
+      <img src="https://github.com/mudittiwari/node.js-file-manager/blob/master/data/demo.gif" alt="File Explorer" style="width:100%;" />
       <h3>File Explorer (MERN Stack)</h3>
       <p>A full-featured file explorer application built using the MERN stack.</p>
       <div>
