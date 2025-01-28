@@ -33,7 +33,7 @@
   </td>
   <td align="center" width="30%">
     <img src="https://github.com/mudittiwari/node.js-file-manager/blob/master/data/demo.gif" alt="File Explorer" style="width:100%;" />
-    <h3>File Explorer</h3>
+    <h3>Next Gen. File Explorer</h3>
     <p>A full-featured file explorer application built using the MERN stack.</p>
     <div>
       <a href="https://github.com/mudittiwari/node.js-file-manager" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
