@@ -19,6 +19,44 @@
 <h1 align="center">Projects</h1>
 
 <table min-width="800px" overflow="scroll">
+
+
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/API-Documentation-Extension/blob/master/demo/demo.gif" alt="File Explorer" style="width:100%;" />
+      <h3>Automated API Documentation and Testing Extension(MERN Stack)</h3>
+      <p>Automatically document APIs and streamline request testing in your React and Node.js applications with this powerful Chrome Extension.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/API-Documentation-Extension" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://chromewebstore.google.com/detail/api-documentation/gbodgenhkdlohclkmcjlejpkjkemiloa?authuser=0&hl=en" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Chrome Web Store Link</a>
+      </div>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/AILinkedInExtension/blob/master/screenshots/combined.gif" alt="AI Chatbot" style="width:100%;" />
+      <h3>LinkedIn AI Chatbot (Chrome Extension)</h3>
+      <p>A Chrome extension that assists in drafting LinkedIn messages using AI.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/AILinkedInExtension" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://chromewebstore.google.com/detail/linkedin-ai-chatbot/pghmmjcekckdmpblicpclnkafdflipgb" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Chrome Web Store Link</a>
+      </div>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/mudittiwari/socket.io_file_sharing_frontend/blob/master/file-sharing-demo.gif" alt="File Sharing App" style="width:100%;" />
+      <h3>File Sharing App (Node.js & Socket.io)</h3>
+      <p>A real-time file-sharing application built using Node.js and Socket.io.</p>
+      <div>
+        <a href="https://github.com/mudittiwari/socket.io_file_sharing_frontend" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">GitHub Repo</a>
+        <br>
+        <a href="https://mudittiwari.github.io/socket.io_file_sharing_frontend/" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">Live Demo</a>
+      </div>
+    </td>
+  </tr>
+
+  
+
+  
   <tr>
     <td align="center" width="30%">
       <img src="https://github.com/mudittiwari/node.js-file-manager/blob/master/data/demo.gif" alt="File Explorer" style="width:100%;" />
