@@ -1,21 +1,82 @@
-<h1 align="center">Hi 👋, I'm Mudit Tiwari</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#00bcd4">Mudit Tiwari</span></h1>
+<h3 align="center">💻 Full Stack Developer | ⚙️ Scalable Systems | 🤖 AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudittiwari&label=Profile%20views&color=0e75b6&style=flat" alt="mudittiwari" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mudittiwari&label=Profile%20views&color=0e75b6&style=flat" alt="mudittiwari" />
+</p>
 
-- 🔭 I’m currently working on **Automated Cricket Score Project**
+---
 
-- 👯 I’m looking to collaborate on **Web development Projects and Mobile application development project**
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **web development and mobile application development**
+🧠 Passionate about building **intelligent, scalable, and real-time systems** that solve real-world problems.  
+💡 I craft backend-heavy apps, pixel-perfect UIs, and AI-driven tools for modern businesses and developers.  
+🛠️ Whether it’s a **medical platform**, **meeting bot**, or **file explorer**, I turn ideas into robust, production-ready solutions.
 
-- 💬 Ask me about **MERN Stack, spring mvc, hibernate, oracle sql.**
+---
 
-- 📫 How to reach me **mudit19.072@gmail.com**
+## 🛠️ Tech Stack
 
-- 📄 Want to Know about my experiences? [Visit My Portfolio](https://mudittiwari.netlify.app/)
+**Languages:**  
+`Java` · `TypeScript` · `JavaScript` · `Python` · `Dart` · `SQL` · `Bash`
 
-- ⚡ Fun fact **I never quit until it is done.**
+**Frontend:**  
+`React.js` · `Tailwind CSS` · `Flutter` · `Bootstrap`
+
+**Backend:**  
+`Spring Boot` · `Node.js` · `Express` · `Hibernate` · `FastAPI` · `Flask`
+
+**Databases:**  
+`MongoDB` · `MySQL` · `Oracle SQL` · `Redis` · `Firestore`
+
+**Tools & Platforms:**  
+`Docker` · `RabbitMQ` · `AWS (EC2/S3)` · `Git` · `Postman` · `JIRA` · `Linux`
+
+**Libraries:**  
+`OpenCV` · `PyTorch` · `ffmpeg` · `Whisper` · `EasyOCR` · `Pyannote`
+
+---
+
+## 🌟 Featured Projects
+
+### 🎥 AI-Powered Meeting Bot
+Joins online meetings, records audio/video, performs **speaker diarization**, and delivers zipped transcripts.  
+_Stack:_ `FastAPI`, `Whisper`, `ffmpeg`, `Redis`, `RabbitMQ`, `OCR`
+
+---
+
+### 🎮 Game Highlight Extractor
+Extracts clutch/highlight moments from long YouTube gaming streams via OCR + video/audio analysis.  
+_Stack:_ `yt-dlp`, `EasyOCR`, `OpenCV`, `FastAPI`, `PyTorch`
+
+---
+
+### 🗃️ Remote File Manager (NPM Module)
+Complete file manager in the browser — supports tree view, previews, upload, zip/extract, and cloud sync.  
+_Stack:_ `React`, `Express`, `MongoDB`, `AWS`
+
+---
+
+### 🧩 Chrome Extension - API AutoDoc
+Auto-logs APIs and generates live documentation for any site. Injects replayable requests.  
+_Stack:_ `JavaScript`, `Chrome APIs`, `Manifest v3`
+
+---
+
+## 📬 Connect with Me
+
+- 📧 Email: **mudit19.072@gmail.com**
+- 🌐 Portfolio: [mudittiwari.netlify.app](https://mudittiwari.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/mudittiwari](https://linkedin.com/in/mudittiwari)
+- 🧠 LeetCode: [leetcode.com/muditcodes](https://leetcode.com/muditcodes)
+- 📗 GFG: [geeksforgeeks.org/user/muditcodes](https://auth.geeksforgeeks.org/user/muditcodes)
+
+---
+
+### ⚡ Fun Fact  
+**I never quit until it's done.**
+
+
 <h1 align="center">Projects</h1>
 
 <table min-width="800px">
