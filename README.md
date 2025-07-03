@@ -81,6 +81,81 @@ _Stack:_ `JavaScript`, `Chrome APIs`, `Manifest v3`
 
 <table min-width="800px">
 
+
+
+
+
+<tr>
+  <td align="center" width="30%">
+  <img src="https://github.com/mudittiwari/valorant-highlights/blob/master/valorant-demo.gif" alt="Valorant Highlights Extractor" style="width:100%;" />
+  <h3>🎮 Valorant Highlights Extractor</h3>
+  <p>
+    Automatically extracts clutch plays and highlights from full Valorant match videos using OCR, frame analysis, and scene detection.
+  </p>
+  <div>
+    <a href="https://github.com/mudittiwari/Game-Highlight-Extractor" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">
+      GitHub Repo
+    </a>
+    <br />
+  </div>
+</td>
+
+  <td align="center" width="30%">
+  <img src="https://github.com/mudittiwari/react-ui-components/blob/master/react-lib-demo.gif" alt="React UI Components Library" style="width:100%;" />
+  <h3>🧩 React UI Components</h3>
+  <p>
+    A collection of beautiful, reusable, and fully customizable UI components built for React.  
+    Supercharge your apps with modern, interactive design elements.
+  </p>
+  <div>
+    <a href="https://github.com/mudittiwari/react-ui-components" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">
+      GitHub Repo
+    </a>
+    <br />
+    <a href="https://mudittiwari.netlify.app/ui-library](https://mudittiwari.github.io/react-ui-components/" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">
+      Explore Components →
+    </a>
+  </div>
+</td>
+
+  <td align="center" width="30%">
+  <img src="https://github.com/mudittiwari/meeting-bot-client/blob/master/recording-demo.gif" alt="AI Meeting Recording Bot" style="width:100%;" />
+  <h3>🎤 AI-Powered Meeting Recording Bot</h3>
+  <p>
+    Automatically joins online meetings, records audio/video, and delivers transcripts with speaker diarization and advanced AI analysis.
+  </p>
+  <div>
+    <a href="https://github.com/mudittiwari/meeting-bot-client" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#007BFF; color:white; text-decoration:none; border-radius:4px;">
+      Client
+    </a>
+    <br />
+    <a href="https://github.com/mudittiwari/meeting-bot" style="display:inline-block; margin:5px; padding:5px 10px; background-color:#28A745; color:white; text-decoration:none; border-radius:4px;">
+      Server
+    </a>
+  </div>
+</td>
+
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
   <td align="center" width="30%">
     <img src="https://github.com/mudittiwari/API-Documentation-Extension/blob/master/demo/demo.gif" alt="Automated API Documentation and Testing Extension" style="width:100%;" />
