@@ -57,7 +57,7 @@ _Stack:_ `JavaScript`, `Chrome APIs`, `Manifest v3`
   <img src="https://github.com/mudittiwari/valorant-highlights/blob/master/valorant-demo.gif" alt="Valorant Highlights Extractor" style="width:100%;" />
   <h3>🎮 Valorant Highlights Extractor</h3>
   <p>Automatically extracts clutch plays and highlights from full Valorant match videos using OCR, frame analysis, and scene detection.</p>
-  <a href="https://github.com/mudittiwari/Game-Highlight-Extractor">🎯 GitHub Repo</a>
+  <a href="https://github.com/mudittiwari/valorant-highlights">🎯 GitHub Repo</a>
 </td>
 
 <!-- React UI Components -->
