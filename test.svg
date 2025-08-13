@@ -102,23 +102,7 @@
     </body>
   </foreignObject>
 
-  <!-- Hover effect styles -->
-  <style>
-    g:hover > rect:first-child {
-      transform: scale(1.06);
-      box-shadow: 0 18px 28px rgba(33, 150, 243, 0.45);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    g:hover > rect:nth-child(2) {
-      filter: drop-shadow(0 0 14px #2196f3);
-      transition: filter 0.3s ease;
-    }
-    g:hover > circle {
-      filter: drop-shadow(0 0 14px #42a5f5);
-      transition: filter 0.3s ease;
-    }
-  </style>
-
+ 
   <!-- Gradients used -->
   <defs>
     <linearGradient id="accentGradient" x1="0" y1="0" x2="0" y2="1">
@@ -158,23 +142,6 @@
       </p>
     </body>
   </foreignObject>
-
-  <!-- Hover effect styles -->
-  <style>
-    g:hover > rect:first-child {
-      transform: scale(1.06);
-      box-shadow: 0 18px 28px rgba(251, 192, 45, 0.45);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    g:hover > rect:nth-child(2) {
-      filter: drop-shadow(0 0 14px #fbc02d);
-      transition: filter 0.3s ease;
-    }
-    g:hover > circle {
-      filter: drop-shadow(0 0 14px #ffeb3b);
-      transition: filter 0.3s ease;
-    }
-  </style>
 
   <!-- Gradients used -->
   <defs>
@@ -216,23 +183,6 @@
     </body>
   </foreignObject>
 
-  <!-- Hover effect styles -->
-  <style>
-    g:hover > rect:first-child {
-      transform: scale(1.06);
-      box-shadow: 0 18px 28px rgba(0, 150, 136, 0.45);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    g:hover > rect:nth-child(2) {
-      filter: drop-shadow(0 0 14px #009688);
-      transition: filter 0.3s ease;
-    }
-    g:hover > circle {
-      filter: drop-shadow(0 0 14px #26a69a);
-      transition: filter 0.3s ease;
-    }
-  </style>
-
   <!-- Gradients used -->
   <defs>
     <radialGradient id="iconGlowTeal" cx="50%" cy="50%" r="60%">
@@ -268,23 +218,7 @@
     </body>
   </foreignObject>
 
-  <!-- Hover effect styles -->
-  <style>
-    g:hover > rect:first-child {
-      transform: scale(1.06);
-      box-shadow: 0 18px 28px rgba(245, 124, 0, 0.45);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    g:hover > rect:nth-child(2) {
-      filter: drop-shadow(0 0 14px #f57c00);
-      transition: filter 0.3s ease;
-    }
-    g:hover > circle {
-      filter: drop-shadow(0 0 14px #ffb74d);
-      transition: filter 0.3s ease;
-    }
-  </style>
-
+  
   <!-- Gradients used -->
   <defs>
     <radialGradient id="iconGlowOrange" cx="50%" cy="50%" r="60%">
