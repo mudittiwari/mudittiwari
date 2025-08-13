@@ -12,7 +12,32 @@
 
 
 
+---
 
+## Social & Platforms
+<p align="left">
+  <a href="https://linkedin.com/in/mudit-tiwari-5b530316b/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-FF7043?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/mudittiwari/" target="blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFC107?style=for-the-badge&logo=leetcode&logoColor=%23FF7043"/>
+  </a>
+  <a href="https://mudittiwari.netlify.app/" target="blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF4081?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@mudit.alwar31" target="blank">
+    <img src="https://img.shields.io/badge/-Medium-E53935?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
+
+
+
+---
+
+
+
+
+## Skills
 <p style="max-width: 900px; margin: auto">
 <!-- Languages -->
 <strong>💻 Languages:</strong><br />
@@ -209,19 +234,6 @@
 </tr>
 </table>
 
----
-
-## 🔗 Social & Platforms
-
-<p align="left">
-  <a href="https://linkedin.com/in/mudit-tiwari-5b530316b/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/mudittiwari/" target="blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-14a800?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://mudittiwari.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
