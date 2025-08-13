@@ -78,78 +78,220 @@
   <!-- Cards Group -->
 
   <!-- Card 1 -->
-  <g filter="url(#cardShadow)" style="cursor:pointer;">
-    <rect x="40" y="70" width="340" height="220" rx="26" ry="26" fill="#f0f6ff" />
-    <rect x="40" y="70" width="14" height="220" rx="7" ry="7" fill="#1976d2" />
-    <circle cx="115" cy="160" r="42" fill="url(#iconCircleGradient1)" />
-    <text x="115" y="160" font-size="30" fill="white" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 10px rgba(0,0,0,0.25);">🎥</text>
-    <foreignObject x="170" y="80" width="200" height="200">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#1565c0; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4;">
-        <h3 style="margin:0 0 10px 0; font-weight: 900; font-size: 16px;">AI-Powered Meeting Bot</h3>
-        <p style="margin:0 0 12px 0; color:#204a87; font-weight: 400; font-size:14px;">
-          Joins meetings, records audio/video, diarizes speakers, delivers zipped transcripts seamlessly.
-        </p>
-        <p style="font-style: italic; font-size: 12px; color:#1976d2;">
-          Stack: FastAPI · Whisper · ffmpeg · Redis · RabbitMQ · OCR
-        </p>
-      </body>
-    </foreignObject>
-  </g>
+  <g style="cursor:pointer;" filter="url(#cardShadow)" >
+  <!-- Glassmorphism card base with subtle blur -->
+  <rect x="40" y="70" width="340" height="220" rx="26" ry="26" fill="rgba(240, 246, 255, 0.75)" style="backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+
+  <!-- Vertical accent bar with vibrant gradient and glow -->
+  <rect x="40" y="70" width="14" height="220" rx="7" ry="7" fill="url(#accentGradient)" style="filter: drop-shadow(0 0 8px #2196f3)" />
+
+  <!-- Icon circle with glowing radial gradient -->
+  <circle cx="115" cy="160" r="44" fill="url(#iconGlow)" />
+  <text x="115" y="160" font-size="30" fill="white" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.35); font-family: 'Poppins', sans-serif;">🎥</text>
+
+  <!-- Content area -->
+  <foreignObject x="170" y="80" width="200" height="200">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#1565c0; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4; user-select:none; font-family: 'Poppins', sans-serif;">
+      <h3 style="margin:0 0 10px 0; font-weight: 900; font-size: 16px;">AI-Powered Meeting Bot</h3>
+      <p style="margin:0 0 12px 0; color:#204a87; font-weight: 400; font-size:14px;">
+        Joins meetings, records audio/video, diarizes speakers, delivers zipped transcripts seamlessly.
+      </p>
+      <p style="font-style: italic; font-size: 12px; color:#1976d2;">
+        Stack: FastAPI · Whisper · ffmpeg · Redis · RabbitMQ · OCR
+      </p>
+    </body>
+  </foreignObject>
+
+  <!-- Hover effect styles -->
+  <style>
+    g:hover > rect:first-child {
+      transform: scale(1.06);
+      box-shadow: 0 18px 28px rgba(33, 150, 243, 0.45);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    g:hover > rect:nth-child(2) {
+      filter: drop-shadow(0 0 14px #2196f3);
+      transition: filter 0.3s ease;
+    }
+    g:hover > circle {
+      filter: drop-shadow(0 0 14px #42a5f5);
+      transition: filter 0.3s ease;
+    }
+  </style>
+
+  <!-- Gradients used -->
+  <defs>
+    <linearGradient id="accentGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2196f3" />
+      <stop offset="100%" stop-color="#90caf9" />
+    </linearGradient>
+
+    <radialGradient id="iconGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#2196f3" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#1565c0" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+</g>
+
 
   <!-- Card 2 -->
-  <g filter="url(#cardShadow)" style="cursor:pointer;">
-    <rect x="410" y="70" width="340" height="220" rx="26" ry="26" fill="#fffbe6" />
-    <rect x="410" y="70" width="14" height="220" rx="7" ry="7" fill="#fbc02d" />
-    <circle cx="485" cy="160" r="42" fill="url(#iconCircleGradient2)" />
-    <text x="485" y="160" font-size="30" fill="#614700" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 2px 8px rgba(0,0,0,0.15);">🎮</text>
-    <foreignObject x="540" y="80" width="200" height="200">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#b48d00; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4;">
-        <h3 style="margin:0 0 10px 0; font-weight: 900; font-size: 16px;">Game Highlight Extractor</h3>
-        <p style="margin:0 0 12px 0; color:#a97b00; font-weight: 400; font-size: 14px;">
-          Extracts clutch moments from YouTube gaming streams with OCR and audio/video analysis.
-        </p>
-        <p style="font-style: italic; font-size: 12px; color:#b78b00;">
-          Stack: yt-dlp · EasyOCR · OpenCV · FastAPI · PyTorch
-        </p>
-      </body>
-    </foreignObject>
-  </g>
+  <g style="cursor:pointer;" filter="url(#cardShadow)" >
+  <!-- Glassmorphism card base with subtle blur -->
+  <rect x="410" y="70" width="340" height="220" rx="26" ry="26" fill="rgba(255, 251, 230, 0.75)" style="backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+
+  <!-- Vertical accent bar with vibrant gradient and glow -->
+  <rect x="410" y="70" width="14" height="220" rx="7" ry="7" fill="#fbc02d" style="filter: drop-shadow(0 0 8px #fbc02d)" />
+
+  <!-- Icon circle with glowing radial gradient -->
+  <circle cx="485" cy="160" r="44" fill="url(#iconGlowYellow)" />
+  <text x="485" y="160" font-size="30" fill="#614700" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.25); font-family: 'Poppins', sans-serif;">🎮</text>
+
+  <!-- Content area -->
+  <foreignObject x="540" y="80" width="200" height="200">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#b48d00; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4; font-family: 'Poppins', sans-serif; user-select:none;">
+      <h3 style="margin:0 0 10px 0; font-weight: 900; font-size: 16px;">Game Highlight Extractor</h3>
+      <p style="margin:0 0 12px 0; color:#a97b00; font-weight: 400; font-size: 14px;">
+        Extracts clutch moments from YouTube gaming streams with OCR and audio/video analysis.
+      </p>
+      <p style="font-style: italic; font-size: 12px; color:#b78b00;">
+        Stack: yt-dlp · EasyOCR · OpenCV · FastAPI · PyTorch
+      </p>
+    </body>
+  </foreignObject>
+
+  <!-- Hover effect styles -->
+  <style>
+    g:hover > rect:first-child {
+      transform: scale(1.06);
+      box-shadow: 0 18px 28px rgba(251, 192, 45, 0.45);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    g:hover > rect:nth-child(2) {
+      filter: drop-shadow(0 0 14px #fbc02d);
+      transition: filter 0.3s ease;
+    }
+    g:hover > circle {
+      filter: drop-shadow(0 0 14px #ffeb3b);
+      transition: filter 0.3s ease;
+    }
+  </style>
+
+  <!-- Gradients used -->
+  <defs>
+    <linearGradient id="accentGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fbc02d" />
+      <stop offset="100%" stop-color="#fff59d" />
+    </linearGradient>
+
+    <radialGradient id="iconGlowYellow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#fbc02d" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#f57c00" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+</g>
+
 
   <!-- Card 3 -->
-  <g filter="url(#cardShadow)" style="cursor:pointer;">
-    <rect x="40" y="300" width="340" height="220" rx="26" ry="26" fill="#e0fbfb" />
-    <rect x="40" y="300" width="14" height="220" rx="7" ry="7" fill="#009688" />
-    <circle cx="115" cy="370" r="42" fill="url(#iconCircleGradient3)" />
-    <text x="115" y="370" font-size="30" fill="#004d40" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 2px 7px rgba(0,0,0,0.15);">🗃️</text>
-    <foreignObject x="170" y="320" width="200" height="200">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#0b645f; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4;">
-        <h3 style="margin:0 0 1px 0; font-weight: 900; font-size: 16px;">Remote File Manager (NPM)</h3>
-        <p style="margin:0 0 12px 0; color:#0f7f7b; font-weight: 400; font-size: 14px">
-          Browser-based file manager with tree view, previews, upload, zip/extract, and cloud sync.
-        </p>
-        <p style="font-style: italic; font-size: 12px; color:#009688;">
-          Stack: React · Express · MongoDB · AWS
-        </p>
-      </body>
-    </foreignObject>
-  </g>
+  <g style="cursor:pointer;" filter="url(#cardShadow)" >
+  <!-- Glassmorphism card base with subtle blur -->
+  <rect x="40" y="300" width="340" height="220" rx="26" ry="26" fill="rgba(224, 251, 251, 0.75)" style="backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+
+  <!-- Vertical accent bar with original solid color #009688 -->
+  <rect x="40" y="300" width="14" height="220" rx="7" ry="7" fill="#009688" />
+
+  <!-- Icon circle with glowing radial gradient -->
+  <circle cx="115" cy="370" r="44" fill="url(#iconGlowTeal)" />
+  <text x="115" y="370" font-size="30" fill="#004d40" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.25); font-family: 'Poppins', sans-serif;">🗃️</text>
+
+  <!-- Content area -->
+  <foreignObject x="170" y="320" width="200" height="200">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#0b645f; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4; font-family: 'Poppins', sans-serif; user-select:none;">
+      <h3 style="margin:0 0 1px 0; font-weight: 900; font-size: 16px;">Remote File Manager (NPM)</h3>
+      <p style="margin:0 0 12px 0; color:#0f7f7b; font-weight: 400; font-size: 14px;">
+        Browser-based file manager with tree view, previews, upload, zip/extract, and cloud sync.
+      </p>
+      <p style="font-style: italic; font-size: 12px; color:#009688;">
+        Stack: React · Express · MongoDB · AWS
+      </p>
+    </body>
+  </foreignObject>
+
+  <!-- Hover effect styles -->
+  <style>
+    g:hover > rect:first-child {
+      transform: scale(1.06);
+      box-shadow: 0 18px 28px rgba(0, 150, 136, 0.45);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    g:hover > rect:nth-child(2) {
+      filter: drop-shadow(0 0 14px #009688);
+      transition: filter 0.3s ease;
+    }
+    g:hover > circle {
+      filter: drop-shadow(0 0 14px #26a69a);
+      transition: filter 0.3s ease;
+    }
+  </style>
+
+  <!-- Gradients used -->
+  <defs>
+    <radialGradient id="iconGlowTeal" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#009688" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#004d40" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+</g>
+
 
   <!-- Card 4 -->
-  <g filter="url(#cardShadow)" style="cursor:pointer;">
-    <rect x="410" y="300" width="340" height="220" rx="26" ry="26" fill="#fff6e0" />
-    <rect x="410" y="300" width="14" height="220" rx="7" ry="7" fill="#f57c00" />
-    <circle cx="485" cy="370" r="42" fill="url(#iconCircleGradient4)" />
-    <text x="485" y="370" font-size="30" fill="#7a4d00" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 2px 7px rgba(0,0,0,0.15);">🧩</text>
-    <foreignObject x="540" y="320" width="200" height="200">
-      <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#7a4f00; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4;">
-        <h3 style="margin:0 0 12px 0; font-weight: 900; font-size: 16px;">Chrome Extension - API AutoDoc</h3>
-        <p style="margin:0 0 12px 0; color:#6d4800; font-weight: 400; font-size: 14px">
-          Auto-logs APIs and generates live docs for any site, injecting replayable requests.
-        </p>
-        <p style="font-style: italic; font-size: 12px; color:#a37822;">
-          Stack: JavaScript · Chrome APIs · Manifest v3
-        </p>
-      </body>
-    </foreignObject>
-  </g>
+  <g style="cursor:pointer;" filter="url(#cardShadow)" >
+  <!-- Glassmorphism card base with subtle blur -->
+  <rect x="410" y="300" width="340" height="220" rx="26" ry="26" fill="rgba(255, 246, 224, 0.75)" style="backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+
+  <!-- Vertical accent bar with original solid color #f57c00 -->
+  <rect x="410" y="300" width="14" height="220" rx="7" ry="7" fill="#f57c00" />
+
+  <!-- Icon circle with glowing radial gradient -->
+  <circle cx="485" cy="370" r="44" fill="url(#iconGlowOrange)" />
+  <text x="485" y="370" font-size="30" fill="#7a4d00" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.25); font-family: 'Poppins', sans-serif;">🧩</text>
+
+  <!-- Content area -->
+  <foreignObject x="540" y="320" width="200" height="200">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#7a4f00; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4; font-family: 'Poppins', sans-serif; user-select:none;">
+      <h3 style="margin:0 0 12px 0; font-weight: 900; font-size: 16px;">Chrome Extension - API AutoDoc</h3>
+      <p style="margin:0 0 12px 0; color:#6d4800; font-weight: 400; font-size: 14px;">
+        Auto-logs APIs and generates live docs for any site, injecting replayable requests.
+      </p>
+      <p style="font-style: italic; font-size: 12px; color:#a37822;">
+        Stack: JavaScript · Chrome APIs · Manifest v3
+      </p>
+    </body>
+  </foreignObject>
+
+  <!-- Hover effect styles -->
+  <style>
+    g:hover > rect:first-child {
+      transform: scale(1.06);
+      box-shadow: 0 18px 28px rgba(245, 124, 0, 0.45);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    g:hover > rect:nth-child(2) {
+      filter: drop-shadow(0 0 14px #f57c00);
+      transition: filter 0.3s ease;
+    }
+    g:hover > circle {
+      filter: drop-shadow(0 0 14px #ffb74d);
+      transition: filter 0.3s ease;
+    }
+  </style>
+
+  <!-- Gradients used -->
+  <defs>
+    <radialGradient id="iconGlowOrange" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#f57c00" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#7a4d00" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+</g>
+
 </svg>
