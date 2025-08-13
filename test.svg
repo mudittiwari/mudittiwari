@@ -29,24 +29,24 @@
       <stop offset="0%" stop-color="#ffcc80"/>
       <stop offset="100%" stop-color="#f57c00"/>
     </radialGradient>
-
-    <linearGradient id="waveGradient1" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#0d47a1" stop-opacity="0.95"/>
-  <stop offset="50%" stop-color="#1976d2" stop-opacity="0.9"/>
-  <stop offset="100%" stop-color="#2196f3" stop-opacity="0.95"/>
+<linearGradient id="waveGradient1" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+  <stop offset="0%" stop-color="#ff7e5f" stop-opacity="1"/>
+  <stop offset="50%" stop-color="#feb47b" stop-opacity="1"/>
+  <stop offset="100%" stop-color="#ffcc70" stop-opacity="1"/>
 </linearGradient>
 
 <linearGradient id="waveGradient2" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#00bcd4" stop-opacity="0.9"/>
-  <stop offset="50%" stop-color="#4dd0e1" stop-opacity="0.85"/>
-  <stop offset="100%" stop-color="#80deea" stop-opacity="0.9"/>
+  <stop offset="0%" stop-color="#6a11cb" stop-opacity="1"/>
+  <stop offset="50%" stop-color="#2575fc" stop-opacity="1"/>
+  <stop offset="100%" stop-color="#00c6ff" stop-opacity="1"/>
 </linearGradient>
 
 <linearGradient id="waveGradient3" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#12e193" stop-opacity="0.9"/>
-  <stop offset="50%" stop-color="#009688" stop-opacity="0.85"/>
-  <stop offset="100%" stop-color="#004d40" stop-opacity="0.9"/>
+  <stop offset="0%" stop-color="#f7971e" stop-opacity="1"/>
+  <stop offset="50%" stop-color="#ffd200" stop-opacity="1"/>
+  <stop offset="100%" stop-color="#fddb92" stop-opacity="1"/>
 </linearGradient>
+
 
   </defs>
 
@@ -78,44 +78,72 @@
   <!-- Cards Group -->
 
   <!-- Card 1 -->
-  <g style="cursor:pointer;" filter="url(#cardShadow)" >
+  <g style="cursor:pointer;" filter="url(#cardShadow)">
   <!-- Glassmorphism card base with subtle blur -->
-  <rect x="40" y="70" width="340" height="220" rx="26" ry="26" fill="rgba(240, 246, 255, 0.75)" style="backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+  <rect x="40" y="70" width="340" height="220" rx="26" ry="26"
+        fill="rgba(240, 246, 255, 0.75)"
+        style="backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
 
-  <!-- Vertical accent bar with vibrant gradient and glow -->
-  <rect x="40" y="70" width="14" height="220" rx="7" ry="7" fill="url(#accentGradient)" style="filter: drop-shadow(0 0 8px #2196f3)" />
+  <!-- Vertical accent bar with vivid sunset gradient and glow -->
+  <rect x="40" y="70" width="14" height="220" rx="7" ry="7"
+        fill="url(#accentGradient)"
+        style="filter: drop-shadow(0 0 8px #ff7e5f)" />
 
-  <!-- Icon circle with glowing radial gradient -->
+  <!-- Icon circle with deep-blue glow -->
   <circle cx="115" cy="160" r="44" fill="url(#iconGlow)" />
-  <text x="115" y="160" font-size="30" fill="white" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.35); font-family: 'Poppins', sans-serif;">🎥</text>
+  <text x="115" y="160" font-size="30" fill="white" font-weight="900"
+        text-anchor="middle" dominant-baseline="middle"
+        style="text-shadow: 0 3px 12px rgba(0,0,0,0.35); font-family: 'Poppins', sans-serif;">🎥</text>
 
-  <!-- Content area -->
+  <!-- Content area (colors mapped to wave palette) -->
   <foreignObject x="170" y="80" width="200" height="200">
-    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#1565c0; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4; user-select:none; font-family: 'Poppins', sans-serif;">
-      <h3 style="margin:0 0 10px 0; font-weight: 900; font-size: 16px;">AI-Powered Meeting Bot</h3>
-      <p style="margin:0 0 12px 0; color:#204a87; font-weight: 400; font-size:14px;">
+    <body xmlns="http://www.w3.org/1999/xhtml"
+          style="margin:0; padding:0; color:#ff7e5f; font-size:14px; font-weight:600; letter-spacing:0.04em; line-height:1.4; user-select:none; font-family:'Poppins', sans-serif;">
+      <h3 style="margin:0 0 10px 0; font-weight:900; font-size:16px; color:#f7971e;">
+        AI-Powered Meeting Bot
+      </h3>
+      <p style="margin:0 0 12px 0; color:#f7971e; font-weight:400; font-size:14px;">
         Joins meetings, records audio/video, diarizes speakers, delivers zipped transcripts seamlessly.
       </p>
-      <p style="font-style: italic; font-size: 12px; color:#1976d2;">
+      <p style="font-style:italic; font-size:12px; color:#f7971e;">
         Stack: FastAPI · Whisper · ffmpeg · Redis · RabbitMQ · OCR
       </p>
     </body>
   </foreignObject>
 
- 
-  <!-- Gradients used -->
+  <!-- Gradients used (match the waves) -->
   <defs>
-    <linearGradient id="accentGradient" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#2196f3" />
-      <stop offset="100%" stop-color="#90caf9" />
+    <!-- Waves (for reference in the design system) -->
+    <linearGradient id="waveGradient1" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#ff7e5f" stop-opacity="1"/>
+      <stop offset="50%"  stop-color="#feb47b" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffcc70" stop-opacity="1"/>
     </linearGradient>
 
-    <radialGradient id="iconGlow" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#2196f3" stop-opacity="0.95" />
-      <stop offset="100%" stop-color="#1565c0" stop-opacity="0" />
+    <linearGradient id="waveGradient2" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#6a11cb" stop-opacity="1"/>
+      <stop offset="50%"  stop-color="#2575fc" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00c6ff" stop-opacity="1"/>
+    </linearGradient>
+
+    <linearGradient id="waveGradient3" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#f7971e" stop-opacity="1"/>
+      <stop offset="50%"  stop-color="#ffd200" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fddb92" stop-opacity="1"/>
+    </linearGradient>
+
+    <!-- Card accent uses the sunset wave -->
+    <linearGradient id="accentGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#ff7e5f"/>
+      <stop offset="100%" stop-color="#feb47b"/>
+    </linearGradient>
+<radialGradient id="iconGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%"   stop-color="#ffb347" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ff7e5f" stop-opacity="0"/>
     </radialGradient>
   </defs>
 </g>
+
 
 
   <!-- Card 2 -->
