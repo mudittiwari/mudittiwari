@@ -30,33 +30,45 @@
       <stop offset="100%" stop-color="#f57c00"/>
     </radialGradient>
 
-    <!-- Vibrant Background Wave Gradient -->
-    <linearGradient id="waveGradient" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0d47a1" stop-opacity="0.7"/>
-      <stop offset="50%" stop-color="#00acc1" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#0d47a1" stop-opacity="0.7"/>
-    </linearGradient>
+    <linearGradient id="waveGradient1" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+  <stop offset="0%" stop-color="#0d47a1" stop-opacity="0.95"/>
+  <stop offset="50%" stop-color="#1976d2" stop-opacity="0.9"/>
+  <stop offset="100%" stop-color="#2196f3" stop-opacity="0.95"/>
+</linearGradient>
+
+<linearGradient id="waveGradient2" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+  <stop offset="0%" stop-color="#00bcd4" stop-opacity="0.9"/>
+  <stop offset="50%" stop-color="#4dd0e1" stop-opacity="0.85"/>
+  <stop offset="100%" stop-color="#80deea" stop-opacity="0.9"/>
+</linearGradient>
+
+<linearGradient id="waveGradient3" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+  <stop offset="0%" stop-color="#12e193" stop-opacity="0.9"/>
+  <stop offset="50%" stop-color="#009688" stop-opacity="0.85"/>
+  <stop offset="100%" stop-color="#004d40" stop-opacity="0.9"/>
+</linearGradient>
+
   </defs>
 
   <!-- Background -->
   <rect width="900" height="540" fill="url(#backgroundGradient)" rx="32" ry="32"/>
 
   <!-- Animated Moving Waves -->
-  <path fill="url(#waveGradient)" opacity="0.55">
+  <path fill="url(#waveGradient1)" opacity="0.55">
     <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
       M0 200 Q150 180 300 220 T600 200 T900 210 V540 H0 V200 Z;
       M0 230 Q150 220 300 210 T600 230 T900 220 V540 H0 V230 Z;
       M0 200 Q150 180 300 220 T600 200 T900 210 V540 H0 V200 Z"/>
   </path>
 
-  <path fill="url(#waveGradient)" opacity="0.45">
+  <path fill="url(#waveGradient2)" opacity="0.45">
     <animate attributeName="d" dur="10s" repeatCount="indefinite" values="
       M0 250 Q200 270 400 250 T900 240 V540 H0 V250 Z;
       M0 240 Q200 230 400 240 T900 260 V540 H0 V240 Z;
       M0 250 Q200 270 400 250 T900 240 V540 H0 V250 Z"/>
   </path>
 
-  <path fill="url(#waveGradient)" opacity="0.4">
+  <path fill="url(#waveGradient3)" opacity="0.4">
     <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
       M0 180 Q150 140 350 160 T900 150 V540 H0 V180 Z;
       M0 220 Q150 160 350 220 T900 160 V540 H0 V220 Z;
