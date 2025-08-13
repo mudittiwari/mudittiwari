@@ -71,7 +71,7 @@
     <rect x="40" y="70" width="14" height="220" rx="7" ry="7" fill="#1976d2" />
     <circle cx="115" cy="160" r="42" fill="url(#iconCircleGradient1)" />
     <text x="115" y="160" font-size="30" fill="white" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 10px rgba(0,0,0,0.25);">🎥</text>
-    <foreignObject x="170" y="90" width="200" height="200">
+    <foreignObject x="170" y="80" width="200" height="200">
       <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#1565c0; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4;">
         <h3 style="margin:0 0 10px 0; font-weight: 900; font-size: 16px;">AI-Powered Meeting Bot</h3>
         <p style="margin:0 0 12px 0; color:#204a87; font-weight: 400; font-size:14px;">
@@ -90,7 +90,7 @@
     <rect x="410" y="70" width="14" height="220" rx="7" ry="7" fill="#fbc02d" />
     <circle cx="485" cy="160" r="42" fill="url(#iconCircleGradient2)" />
     <text x="485" y="160" font-size="30" fill="#614700" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 2px 8px rgba(0,0,0,0.15);">🎮</text>
-    <foreignObject x="540" y="90" width="200" height="200">
+    <foreignObject x="540" y="80" width="200" height="200">
       <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#b48d00; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4;">
         <h3 style="margin:0 0 10px 0; font-weight: 900; font-size: 16px;">Game Highlight Extractor</h3>
         <p style="margin:0 0 12px 0; color:#a97b00; font-weight: 400; font-size: 14px;">
@@ -109,7 +109,7 @@
     <rect x="40" y="300" width="14" height="220" rx="7" ry="7" fill="#009688" />
     <circle cx="115" cy="370" r="42" fill="url(#iconCircleGradient3)" />
     <text x="115" y="370" font-size="30" fill="#004d40" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 2px 7px rgba(0,0,0,0.15);">🗃️</text>
-    <foreignObject x="170" y="325" width="200" height="200">
+    <foreignObject x="170" y="320" width="200" height="200">
       <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#0b645f; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4;">
         <h3 style="margin:0 0 1px 0; font-weight: 900; font-size: 16px;">Remote File Manager (NPM)</h3>
         <p style="margin:0 0 12px 0; color:#0f7f7b; font-weight: 400; font-size: 14px">
@@ -128,7 +128,7 @@
     <rect x="410" y="300" width="14" height="220" rx="7" ry="7" fill="#f57c00" />
     <circle cx="485" cy="370" r="42" fill="url(#iconCircleGradient4)" />
     <text x="485" y="370" font-size="30" fill="#7a4d00" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 2px 7px rgba(0,0,0,0.15);">🧩</text>
-    <foreignObject x="540" y="325" width="200" height="200">
+    <foreignObject x="540" y="320" width="200" height="200">
       <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0; padding:0; color:#7a4f00; font-size: 14px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.4;">
         <h3 style="margin:0 0 12px 0; font-weight: 900; font-size: 16px;">Chrome Extension - API AutoDoc</h3>
         <p style="margin:0 0 12px 0; color:#6d4800; font-weight: 400; font-size: 14px">
