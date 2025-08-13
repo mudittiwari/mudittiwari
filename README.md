@@ -29,21 +29,7 @@
 
 ## 🌟 Featured Projects
 
-### 🎥 AI-Powered Meeting Bot  
-Joins online meetings, records audio/video, performs **speaker diarization**, and delivers zipped transcripts.  
-_Stack:_ `FastAPI`, `Whisper`, `ffmpeg`, `Redis`, `RabbitMQ`, `OCR`
-
-### 🎮 Game Highlight Extractor  
-Extracts clutch/highlight moments from long YouTube gaming streams via OCR + video/audio analysis.  
-_Stack:_ `yt-dlp`, `EasyOCR`, `OpenCV`, `FastAPI`, `PyTorch`
-
-### 🗃️ Remote File Manager (NPM Module)  
-Complete file manager in the browser — supports tree view, previews, upload, zip/extract, and cloud sync.  
-_Stack:_ `React`, `Express`, `MongoDB`, `AWS`
-
-### 🧩 Chrome Extension - API AutoDoc  
-Auto-logs APIs and generates live documentation for any site. Injects replayable requests.  
-_Stack:_ `JavaScript`, `Chrome APIs`, `Manifest v3`
+<img src="https://github.com/mudittiwari/mudittiwari/blob/main/test.svg" alt="Featured Projects" width="900" height="540" />
 
 ---
 
