@@ -1,14 +1,4 @@
-<p align="center">
-  <svg width="100%" height="180" viewBox="0 0 900 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="waveGradient" x1="0" x2="0" y1="0" y2="1">
-        <stop offset="0%" stop-color="#1976d2" />
-        <stop offset="100%" stop-color="#00bcd4" />
-      </linearGradient>
-    </defs>
-    <path d="M0 80 Q220 140 450 80 Q680 20 900 100 V180 H0 Z" fill="url(#waveGradient)" />
-  </svg>
-</p>
+
 
 <h1 align="center" style="margin-bottom: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=500&color=1976D2&center=true&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudit+Tiwari&repeat=false&duration=2000" alt="Animated Hi, I'm Mudit Tiwari" />
