@@ -1,16 +1,15 @@
 
-
 <h1 align="center" style="margin-bottom: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=500&color=1976D2&center=true&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudit+Tiwari&repeat=false&duration=2000" alt="Animated Hi, I'm Mudit Tiwari" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=500&color=FF5722&center=true&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudit+Tiwari&repeat=false&duration=2000" alt="Animated Hi, I'm Mudit Tiwari" />
 </h1>
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=mudittiwari&label=Profile+views&color=1976d2&style=flat" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=mudittiwari&label=Profile+views&color=FFC107&style=flat" alt="Profile Views Counter" />
 </p>
 
-
 <h3 align="center" style="margin-top: 4px; margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&color=1976D2&center=true&width=700&lines=Full+Stack+Developer+%7C+Scalable+Systems+%7C+AI+Enthusiast" alt="Animated Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&color=FF4081&center=true&width=700&lines=Full+Stack+Developer+%7C+Scalable+Systems+%7C+AI+Enthusiast" alt="Animated Subtitle" />
 </h3>
+
 
 
 
