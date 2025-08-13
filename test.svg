@@ -167,8 +167,8 @@
   <rect x="40" y="300" width="14" height="220" rx="7" ry="7" fill="#009688" />
 
   <!-- Icon circle with glowing radial gradient -->
-  <circle cx="115" cy="370" r="44" fill="url(#iconGlowTeal)" />
-  <text x="115" y="370" font-size="30" fill="#004d40" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.25); font-family: 'Poppins', sans-serif;">🗃️</text>
+  <circle cx="115" cy="390" r="44" fill="url(#iconGlowTeal)" />
+  <text x="115" y="390" font-size="30" fill="#004d40" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.25); font-family: 'Poppins', sans-serif;">🗃️</text>
 
   <!-- Content area -->
   <foreignObject x="170" y="320" width="200" height="200">
@@ -202,8 +202,8 @@
   <rect x="410" y="300" width="14" height="220" rx="7" ry="7" fill="#f57c00" />
 
   <!-- Icon circle with glowing radial gradient -->
-  <circle cx="485" cy="370" r="44" fill="url(#iconGlowOrange)" />
-  <text x="485" y="370" font-size="30" fill="#7a4d00" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.25); font-family: 'Poppins', sans-serif;">🧩</text>
+  <circle cx="485" cy="390" r="44" fill="url(#iconGlowOrange)" />
+  <text x="485" y="390" font-size="30" fill="#7a4d00" font-weight="900" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 3px 12px rgba(0,0,0,0.25); font-family: 'Poppins', sans-serif;">🧩</text>
 
   <!-- Content area -->
   <foreignObject x="540" y="320" width="200" height="200">
