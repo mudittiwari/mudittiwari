@@ -13,7 +13,7 @@
 
 
 
-<p align="center" style="max-width: 900px; margin: auto;">
+<p style="max-width: 900px; margin: auto">
 <!-- Languages -->
 <strong>💻 Languages:</strong><br />
 <img src="https://img.shields.io/badge/Java-FF5722?logo=openjdk&logoColor=white" alt="Java" />&nbsp;&nbsp;
