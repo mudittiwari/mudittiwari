@@ -234,11 +234,11 @@
 </tr>
 </table>
 
-
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudittiwari&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudittiwari&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudittiwari&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=FF7043&text_color=FFC107&icon_color=FF4081" alt="Top Langs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudittiwari&show_icons=true&locale=en&bg_color=00000000&title_color=FF7043&text_color=FFC107&icon_color=FF4081" alt="GitHub Stats" />
+
 
 ---
 
