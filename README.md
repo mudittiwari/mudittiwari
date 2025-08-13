@@ -14,63 +14,63 @@
 
 
 <p align="center" style="max-width: 900px; margin: auto;">
-
 <!-- Languages -->
 <strong>💻 Languages:</strong><br />
-<img src="https://img.shields.io/badge/Java-1976d2?logo=openjdk&logoColor=white" alt="Java" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-1976d2?logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-ffd600?logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Dart-0175c2?logo=dart&logoColor=white" alt="Dart" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-ff6f00?logo=sqlite&logoColor=white" alt="SQL" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bash-222?logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Java-FF5722?logo=openjdk&logoColor=white" alt="Java" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-FFC107?logo=typescript&logoColor=black" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-FF7043?logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-FF4081?logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Dart-E53935?logo=dart&logoColor=white" alt="Dart" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-FFC107?logo=sqlite&logoColor=black" alt="SQL" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bash-FF5722?logo=gnubash&logoColor=white" alt="Bash" />
 
 
 <!-- Frontend -->
 <strong>🛠️ Frontend:</strong><br />
-<img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black" alt="React" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TailwindCSS-38b2ac?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flutter-42a5f5?logo=flutter&logoColor=white" alt="Flutter" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/React-FF7043?logo=react&logoColor=black" alt="React" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-FF4081?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flutter-FFC107?logo=flutter&logoColor=black" alt="Flutter" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-FF5722?logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
 
 <!-- Backend -->
 <strong>⚙️ Backend:</strong><br />
-<img src="https://img.shields.io/badge/Spring_Boot-6db33f?logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white" alt="Express" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hibernate-59666c?logo=hibernate&logoColor=white" alt="Hibernate" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Spring_Boot-FFC107?logo=springboot&logoColor=black" alt="Spring Boot" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-FF7043?logo=node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express-FF4081?logo=express&logoColor=white" alt="Express" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hibernate-FF5722?logo=hibernate&logoColor=white" alt="Hibernate" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-E53935?logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flask-FFC107?logo=flask&logoColor=black" alt="Flask" />
 
 
 <!-- Databases -->
 <strong>🗄️ Databases:</strong><br />
-<img src="https://img.shields.io/badge/MongoDB-47a248?logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-0277bd?logo=mysql&logoColor=white" alt="MySQL" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OracleSQL-f80000?logo=oracle&logoColor=white" alt="Oracle SQL" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Redis-d82c20?logo=redis&logoColor=white" alt="Redis" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Firestore-ffca28?logo=firebase&logoColor=white" alt="Firestore" />
+<img src="https://img.shields.io/badge/MongoDB-FF5722?logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-FFC107?logo=mysql&logoColor=black" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OracleSQL-FF4081?logo=oracle&logoColor=white" alt="Oracle SQL" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Redis-E53935?logo=redis&logoColor=white" alt="Redis" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Firestore-FF7043?logo=firebase&logoColor=black" alt="Firestore" />
 
 
 <!-- Tools & Platforms -->
 <strong>🛠️ Tools & Platforms:</strong><br />
-<img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/RabbitMQ-ff6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS-ff9900?logo=amazonaws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Postman-ff6c37?logo=postman&logoColor=white" alt="Postman" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JIRA-0052cc?logo=jira&logoColor=white" alt="JIRA" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux-222?logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-FF7043?logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/RabbitMQ-FFC107?logo=rabbitmq&logoColor=black" alt="RabbitMQ" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS-FF5722?logo=amazonaws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-FF4081?logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-E53935?logo=postman&logoColor=white" alt="Postman" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JIRA-FF5722?logo=jira&logoColor=white" alt="JIRA" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FFC107?logo=linux&logoColor=black" alt="Linux" />
+
 
 <!-- Libraries -->
 <strong>📚 Libraries:</strong><br />
-<img src="https://img.shields.io/badge/OpenCV-5c3ee8?logo=opencv&logoColor=white" alt="OpenCV" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ffmpeg-007808?logo=ffmpeg&logoColor=white" alt="ffmpeg" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Whisper-1976d2?logo=github&logoColor=white" alt="Whisper" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/EasyOCR-558b2f?logo=python&logoColor=white" alt="EasyOCR" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pyannote-00695c?logo=python&logoColor=white" alt="Pyannote" />
+<img src="https://img.shields.io/badge/OpenCV-FF4081?logo=opencv&logoColor=white" alt="OpenCV" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-FF5722?logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ffmpeg-E53935?logo=ffmpeg&logoColor=white" alt="ffmpeg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Whisper-FFC107?logo=github&logoColor=black" alt="Whisper" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/EasyOCR-FF7043?logo=python&logoColor=white" alt="EasyOCR" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pyannote-FF5722?logo=python&logoColor=white" alt="Pyannote" />
 
 </p>
 
