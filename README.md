@@ -78,7 +78,7 @@
 
 ---
 
-## 🌟 Featured Projects
+<h1 align="center">🌟 Featured Projects</h1>
 
 <img src="https://github.com/mudittiwari/mudittiwari/blob/main/test.svg" alt="Featured Projects" width="900" height="540" />
 
